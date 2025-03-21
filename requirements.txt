@@ -1,0 +1,12 @@
+numpy
+pandas
+opencv-python
+tensorflow
+ultralytics
+torch 
+torchvision 
+torchaudio
+panda3d
+panda3d-gltf
+matplotlib
+apriltag  
