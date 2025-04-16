@@ -1,0 +1,534 @@
+[
+  {
+    "Position": "1",
+    "Item Name": "Mocha",
+    "Description": "Our rich, full-bodied espresso combined with bittersweet mocha sauce and steamed milk, then topped with sweetened whipped cream. The classic coffee drink that always sweetly satisfies.",
+    "Price": "L.L 335,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/01145e44-dc50-4fae-97d1-257aded9f334.png"
+  },
+  {
+    "Position": "2",
+    "Item Name": "Tuna Sub",
+    "Description": "Packed with flaky tuna, fresh veggies, and creamy mayo, it's the perfect blend of flavor and texture. Whether you keep it simple or pile on the toppings, you can't go wrong with this classic sub.",
+    "Price": "L.L 550,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/ca30dea7-9201-43a7-a704-90772439c891.png"
+  },
+  {
+    "Position": "3",
+    "Item Name": "Chicken Teriyaki",
+    "Description": "Tender and juicy strips of grilled chicken, smothered in a rich and savory teriyaki sauce. It is layered onto your choice of freshly baked bread, along with fresh veggies and other toppings of your choice.",
+    "Price": "L.L 550,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/ca30dea7-9201-43a7-a704-90772439c891.png"
+  },
+  {
+    "Position": "4",
+    "Item Name": "Frozen Yogurt",
+    "Description": "A refreshing, tangy dessert that combines the flavors and textures of ice cream and sherbet. With no toppings!",
+    "Price": "L.L 450,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/c83dd51e-0a0f-4c71-8f84-169b9d180874.png"
+  },
+  {
+    "Position": "5",
+    "Item Name": "Iced Mocha",
+    "Description": "Our signature espresso meets white chocolate sauce, milk and ice, and then is finished off with sweetened whipped cream to create this supreme white chocolate delight.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/58384220-ac88-49d3-88c9-a26363472b83.png"
+  },
+  {
+    "Position": "6",
+    "Item Name": "Frozen Yogurt Combo",
+    "Description": "A refreshing, tangy dessert that combines the flavors and textures of ice cream and sherbet. With free toppings!",
+    "Price": "L.L 500,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/a8b09cec-ef71-4d19-9571-cbd52f9c676e.png"
+  },
+  {
+    "Position": "7",
+    "Item Name": "Rim Sparkling Water",
+    "Description": "Never feel thirsty!",
+    "Price": "L.L 80,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/40a6f77c-bda5-4adb-a2f3-8d7883cf2ca4.jpg"
+  },
+  {
+    "Position": "8",
+    "Item Name": "Steamed Milk",
+    "Description": "Enjoy a warm cup of skim steamed for your sipping pleasure.",
+    "Price": "L.L 200,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/cb3ebc90-814f-403a-9d78-c27dc4cc1346.png"
+  },
+  {
+    "Position": "9",
+    "Item Name": "White Mocha",
+    "Description": "Our signature espresso meets white chocolate sauce and steamed milk, and then is finished off with sweetened whipped cream to create this supreme white chocolate delight.",
+    "Price": "L.L 335,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/8be280ea-690c-44af-a84e-0a41af78e1fc.png"
+  },
+  {
+    "Position": "10",
+    "Item Name": "Turkey & Cheese",
+    "Description": "A classic sandwich that's always in style. Tender and juicy sliced turkey layered onto your choice of freshly baked bread and topped with melty cheese and crisp veggies.",
+    "Price": "L.L 550,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/ca30dea7-9201-43a7-a704-90772439c891.png"
+  },
+  {
+    "Position": "11",
+    "Item Name": "Cappuccino",
+    "Description": "Dark, rich espresso lies in wait under a smoothed and stretched layer of thick milk foam. An alchemy of barista artistry and craft.",
+    "Price": "L.L 290,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/07f095ba-4913-4727-8d24-6a06badd0d42.png"
+  },
+  {
+    "Position": "12",
+    "Item Name": "Hot Chocolate",
+    "Description": "Steamed milk with chocolate-flavored syrups. Topped with sweetened whipped cream and chocolate-flavored drizzle. A timeless classic made to sweeten your spirits.",
+    "Price": "L.L 335,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/940a5fdc-2a51-41b8-80a0-6d12167c07d7.png"
+  },
+  {
+    "Position": "13",
+    "Item Name": "Latte",
+    "Description": "A perfect milk-forward warm-up!",
+    "Price": "L.L 290,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/08840f4d-ad44-47bf-a2f8-614d86d02d41.png"
+  },
+  {
+    "Position": "14",
+    "Item Name": "Caramel Macchiato",
+    "Description": "We combine our rich, full-bodied espresso with vanilla-flavored syrup and milk, then top it off with a caramel drizzle for an oh-so-sweet finish.",
+    "Price": "L.L 335,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/d63acccd-2a23-42a6-b46a-ec52d284606b.png"
+  },
+  {
+    "Position": "15",
+    "Item Name": "Hot Double Shot",
+    "Description": "A delicious and bold hot version of the favorite Double Shot Iced Shaken.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/ea8a0a08-93d9-4a88-9b08-409b99aeeb88.png"
+  },
+  {
+    "Position": "16",
+    "Item Name": "Flat White",
+    "Description": "Smooth ristretto shots of espresso get the perfect amount of steamed whole milk to create a not-too-strong, not-too-creamy, just-right flavor.",
+    "Price": "L.L 290,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/12171759-01b0-4248-b1a2-7a9dfdefe10d.png"
+  },
+  {
+    "Position": "17",
+    "Item Name": "Espresso",
+    "Description": "Our smooth signature Espresso Roast with rich flavor and caramelly sweetness is at the very heart of everything we do.",
+    "Price": "L.L 235,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/1534ed9b-cb40-4cc3-a9f5-754454cd1585.png"
+  },
+  {
+    "Position": "18",
+    "Item Name": "Iced Americano",
+    "Description": "Espresso shots topped with cold water produce a light layer of crema, then served over ice. The result: a wonderfully rich cup with depth and nuance.",
+    "Price": "L.L 290,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/dd7c9ed9-2e78-4b16-b01f-38b11ae142f0.png"
+  },
+  {
+    "Position": "19",
+    "Item Name": "Rocca Salad",
+    "Description": "Rocca, cherry tomato, fresh mushroom, beetroot, fetta cheese, oregano, rosemary with balsamic sauce",
+    "Price": "L.L 500,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/a747a982-7c5d-447f-bb35-dbe77768ac99.jpg"
+  },
+  {
+    "Position": "20",
+    "Item Name": "Lychee Blast",
+    "Description": "Summer Drink",
+    "Price": "L.L 450,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/74e5cc9c-4977-43d2-8c92-9260dfdedb89.jpeg"
+  },
+  {
+    "Position": "21",
+    "Item Name": "Peach Cooler",
+    "Description": "Summer Drink",
+    "Price": "L.L 450,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/bd3b137d-db3a-43eb-9a57-63532669220d.jpeg"
+  },
+  {
+    "Position": "22",
+    "Item Name": "Lychee Boba",
+    "Description": "Summer Drink",
+    "Price": "L.L 550,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/616f85c4-27c6-4945-a0d4-523deca3fcee.jpeg"
+  },
+  {
+    "Position": "23",
+    "Item Name": "Strawberry Boba",
+    "Description": "Summer Drink",
+    "Price": "L.L 550,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/db63c40b-0e45-4ae4-b4c9-d99bb5050e62.jpeg"
+  },
+  {
+    "Position": "24",
+    "Item Name": "Strawberry Dried Drops",
+    "Description": "Strawberry Dried Drops",
+    "Price": "L.L 300,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/488a8b3e-4c1a-444e-a03f-0d26a712b75e.png"
+  },
+  {
+    "Position": "25",
+    "Item Name": "Rim 330ML",
+    "Description": "Never feel thirsty!",
+    "Price": "L.L 50,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/98033c36-b505-4747-8dc4-cc34f36449a9.jpg"
+  },
+  {
+    "Position": "26",
+    "Item Name": "Quinoa Salad",
+    "Description": "Lolo Rosso, Quinoa, Cherry Tomato, Beetroot, Olive, Halloumi Cheese, Honey Walnut with Pomegranate Sauce",
+    "Price": "L.L 700,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/a747a982-7c5d-447f-bb35-dbe77768ac99.jpg"
+  },
+  {
+    "Position": "27",
+    "Item Name": "Greek Salad",
+    "Description": "Iceberg, Green Pepper, Cherry Tomato, Olive, Cucumber, Fetta Cheese, Olive & Lemon dressing",
+    "Price": "L.L 700,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/a747a982-7c5d-447f-bb35-dbe77768ac99.jpg"
+  },
+  {
+    "Position": "28",
+    "Item Name": "Matcha Latte",
+    "Description": "Smooth and creamy matcha sweetened just right and served with steamed milk. This favorite will transport your senses to pure green delight.",
+    "Price": "L.L 290,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/d24f1410-78ce-45df-8c55-c3f72ca0a770.png"
+  },
+  {
+    "Position": "29",
+    "Item Name": "Tuna Pasta Salad",
+    "Description": "Iceberg, fussili pasta, tuna, oregano, tuna sauce with mayo mustard dressing",
+    "Price": "L.L 700,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/a747a982-7c5d-447f-bb35-dbe77768ac99.jpg"
+  },
+  {
+    "Position": "30",
+    "Item Name": "Pistachio Frozen Yogurt",
+    "Description": "A refreshing, tangy dessert that combines the flavors and textures of ice cream and sherbet. With free toppings!",
+    "Price": "L.L 500,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/a8b09cec-ef71-4d19-9571-cbd52f9c676e.png"
+  },
+  {
+    "Position": "31",
+    "Item Name": "San Benedetto Glass 250",
+    "Description": "A perfect balance between sweet, delicately-flavoured teas and a great low mineral content water as pure and light as San Benedetto",
+    "Price": "L.L 150,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/c1da5211-ac28-4e54-a150-f7e44321503e.jpg"
+  },
+  {
+    "Position": "32",
+    "Item Name": "San Benedetto Clementine 330",
+    "Description": "A perfect balance between sweet, delicately-flavoured teas and a great low mineral content water as pure and light as San Benedetto",
+    "Price": "L.L 200,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/9666cc33-c580-4202-bbd8-a5b949721064.jpg"
+  },
+  {
+    "Position": "33",
+    "Item Name": "San Benedetto Lemon 330ML",
+    "Description": "A perfect balance between sweet, delicately-flavoured teas and a great low mineral content water as pure and light as San Benedetto",
+    "Price": "L.L 200,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/c1a50348-cbca-4be2-8f61-cb4e5bef675c.jpg"
+  },
+  {
+    "Position": "34",
+    "Item Name": "Halloumi Pesto",
+    "Description": "There’s nothing like a good sandwich made with fresh ingredients.",
+    "Price": "L.L 450,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/ca30dea7-9201-43a7-a704-90772439c891.png"
+  },
+  {
+    "Position": "35",
+    "Item Name": "Labneh",
+    "Description": "Basically... this sums up your relationship with labneh!",
+    "Price": "L.L 400,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/ca30dea7-9201-43a7-a704-90772439c891.png"
+  },
+  {
+    "Position": "36",
+    "Item Name": "Strawberry Cream Frap",
+    "Description": "Summer's favorite berry is the star of this delicious Frappuccino Blended Beverage: a blend of ice, milk and strawberry puree layered on top of a splash of strawberry puree and finished with vanilla whipped cream.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/de1cb107-89d8-42be-a67d-bb91e7d10de2.png"
+  },
+  {
+    "Position": "37",
+    "Item Name": "Lemon And Mint",
+    "Description": "A customer creation so popular it’s now on the menu.",
+    "Price": "L.L 220,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/aecf89cf-fa89-4712-8cf7-e54525670070.png"
+  },
+  {
+    "Position": "38",
+    "Item Name": "Green",
+    "Description": "This gently smoky, softly sweet green tea—cultivated at 3,500 feet and shrouded in ethereal clouds and mist—is tasty no matter what language you say it in.",
+    "Price": "L.L 220,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/aecf89cf-fa89-4712-8cf7-e54525670070.png"
+  },
+  {
+    "Position": "39",
+    "Item Name": "Earl Grey",
+    "Description": "We take a strong black tea base and add the essence of bergamot, a citrus fruit with subtle lemon and floral lavender notes, to create this aromatically awesome tea flavor.",
+    "Price": "L.L 220,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/b4b07ab5-7c72-4583-8611-40586fb84e94.png"
+  },
+  {
+    "Position": "40",
+    "Item Name": "English Breakfast",
+    "Description": "Each sip of this beloved morning black tea unfolds to reveal the complexity of the high-grown full leaves. An elegant, time-honored classic that brings a royal nod to every cup.",
+    "Price": "L.L 220,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/1534ed9b-cb40-4cc3-a9f5-754454cd1585.png"
+  },
+  {
+    "Position": "41",
+    "Item Name": "Vanilla Cream Frap",
+    "Description": "This rich and creamy blend of vanilla bean, milk and ice topped with whipped cream takes vanilla flavor to another level. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/39e1680f-e84b-4267-ba90-cdfe133ae33b.png"
+  },
+  {
+    "Position": "42",
+    "Item Name": "Coffee Frap",
+    "Description": "Coffee meets milk and ice in a blender for a rumble-and-tumble togetherness to create one of our most-beloved original Frappuccino blended beverages.",
+    "Price": "L.L 300,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/311522cf-49f5-4c47-9550-9027e675d154.png"
+  },
+  {
+    "Position": "43",
+    "Item Name": "Hazelnut Coffee Frap",
+    "Description": "Coffee and flavors of Hazelnut blended with rich Frappuccino chips",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/0029582d-cf69-42d2-97ad-5c375f582111.png"
+  },
+  {
+    "Position": "44",
+    "Item Name": "Vanilla Coffee Frap",
+    "Description": "We take Frappuccino roast coffee and vanilla bean powder, combine them with milk and ice, topped with whipped cream. Tastes like happiness.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/92f53e23-c283-47f5-9a1d-ec34ed4c2fd9.png"
+  },
+  {
+    "Position": "45",
+    "Item Name": "Double Shot Shaken",
+    "Description": "Made with the rich, full-bodied espresso you love, then shaken, chilled and mellowed with sweetness and a touch of milk to create a delightfully and deliciously convenient on-the-go drink.",
+    "Price": "L.L 300,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/fa98e072-012e-404f-8096-98f871100dba.png"
+  },
+  {
+    "Position": "46",
+    "Item Name": "Matcha Cream Frap",
+    "Description": "This blend of sweetened premium matcha green tea, milk and ice, topped off with sweetened whipped cream, inspires a delicious boost and good green vibes.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/f0476907-90a0-4e34-9889-ef57af25f1b1.png"
+  },
+  {
+    "Position": "47",
+    "Item Name": "Caramel Cream Frap",
+    "Description": "Coffee and flavors of sweet caramel blended with rich Frappuccino chips",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/8cc44c7e-5a7e-4f77-82e9-280b9c6fd5a2.png"
+  },
+  {
+    "Position": "48",
+    "Item Name": "Chocolate Cream Frap",
+    "Description": "Coffee and flavors of sweet chocolate blended with rich Frappuccino chips",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/c09e81ba-18ed-47fa-9962-3582f34bfbb5.png"
+  },
+  {
+    "Position": "49",
+    "Item Name": "Double Espresso Macchiato",
+    "Description": "Our rich espresso marked with dollop of steamed milk and foam. A European-style classic.",
+    "Price": "L.L 280,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/9fb24c3d-2d71-447e-889e-5d9ef42ba682.png"
+  },
+  {
+    "Position": "50",
+    "Item Name": "Double Espresso",
+    "Description": "Our smooth signature Espresso Roast with rich flavor and caramelly sweetness is at the very heart of everything we do.",
+    "Price": "L.L 280,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/f1344107-ff25-4c0c-a455-5e68d30a94b7.png"
+  },
+  {
+    "Position": "51",
+    "Item Name": "Espresso Macchiato",
+    "Description": "Our rich espresso marked with dollop of steamed milk and foam. A European-style classic.",
+    "Price": "L.L 235,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/ed26eab3-1ee1-49c0-9185-b25d594f2972.png"
+  },
+  {
+    "Position": "52",
+    "Item Name": "Filtered Coffee",
+    "Description": "Iconic Stories coffee that's smooth, balanced and rich in flavor – perfect for every day.",
+    "Price": "L.L 250,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/d6d22425-2486-4d41-9b57-855ddd997227.png"
+  },
+  {
+    "Position": "53",
+    "Item Name": "Americano",
+    "Description": "Espresso shots topped with hot water create a light layer of crema culminating in this wonderfully rich cup with depth and nuance.",
+    "Price": "L.L 280,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/38d81054-cb91-4bbb-ab30-026947953b5d.png"
+  },
+  {
+    "Position": "54",
+    "Item Name": "Iced Lemon Tea",
+    "Description": "A ray of sunshine in a glass, this zesty blend of steeped black tea and refreshing lemon is the ideal refreshment on a hot summer afternoon.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/aecf89cf-fa89-4712-8cf7-e54525670070.png"
+  },
+  {
+    "Position": "55",
+    "Item Name": "Iced Matcha",
+    "Description": "Our signature drink combined with cocoa and ground chocolate, then topped with cold milk and served over iced, makes a perfect mocha companion day or night.",
+    "Price": "L.L 300,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/070c615a-a307-48c0-921b-756916eade91.png"
+  },
+  {
+    "Position": "56",
+    "Item Name": "Iced Chocolate",
+    "Description": "Our signature drink combined with cocoa and ground chocolate, then topped with cold milk and served over iced, makes a perfect mocha companion day or night.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/ebe09000-a9b5-4b5f-a2ce-4f3b58512274.png"
+  },
+  {
+    "Position": "57",
+    "Item Name": "White Mocha Cream Frap",
+    "Description": "White chocolate Frappuccino Roast coffee, milk and ice get together for what might be the best thing that happens to you all day. Oh, and there's whipped cream on top.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/c1af088d-b6a1-4fd6-ba4d-89695e4c5521.png"
+  },
+  {
+    "Position": "58",
+    "Item Name": "White Mocha Frap",
+    "Description": "Mocha sauce, Frappuccino Roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/d1e1a9be-88d1-4e84-935d-b33efb4a0ff0.png"
+  },
+  {
+    "Position": "59",
+    "Item Name": "Cheese Croissant",
+    "Description": "A flaky, buttery croissant is filled to perfection with a luscious spread of rich prune cheese filling that balances tart and sweet in perfect harmony, delivering an irresistible morning pastry that lifts the spirit with its flavor symphony in every bite.",
+    "Price": "L.L 300,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/66dc52b6-3fb0-4039-85de-811fe87d9c91.png"
+  },
+  {
+    "Position": "60",
+    "Item Name": "Double Chocolate Chip Walnut",
+    "Description": "Semisweet chocolate chips and raw walnuts mixed in a thick, chewy cookie. Soft on the inside and crunchy on the outside.",
+    "Price": "L.L 500,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/e2cf9514-89a3-4e52-9539-c78d035e5ae6.png"
+  },
+  {
+    "Position": "61",
+    "Item Name": "Iced Raspberry Tea",
+    "Description": "A delightful delight, this harmonious fusion of brewed black tea and ripe raspberry juice chills and charms on a sweltering afternoon. Each bracing swallow delivers notes of delicate berries and just a whisper of sweetness that tantalize the senses and revive the soul with its rosy pink glow.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/90fc5c53-7200-4727-9f42-9d3ee7d9f5d2.png"
+  },
+  {
+    "Position": "62",
+    "Item Name": "Iced Peach Tea",
+    "Description": "An escape to an orchard retreat, this sun-kissed blend of steeped black tea and peach essence cools the soul on a hot summer day. Each thirst quenching sip reveals notes of ripe peach and a gentle hint of honey that teases the senses and renews the spirit.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/09010068-40b7-410d-9df3-310282b48fb0.png"
+  },
+  {
+    "Position": "63",
+    "Item Name": "Mint",
+    "Description": "The fresh scent of garden mint leaves fills the air as this herbal tea steeped to perfection. A simple cup offers calm and clarity of mind through each refreshing sip of this restorative blend designed to rejuvenate the spirit.",
+    "Price": "L.L 220,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/aecf89cf-fa89-4712-8cf7-e54525670070.png"
+  },
+  {
+    "Position": "64",
+    "Item Name": "Jasmine",
+    "Description": "The subtle floral aroma of jasmine flowers mingles with freshly steamed green tea in this perfectly harmonious blend. Gently brewed at just the right temperature, this light and fragrant cup releases notes of white flowers and soothing warmth with each graceful sip.",
+    "Price": "L.L 220,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/aecf89cf-fa89-4712-8cf7-e54525670070.png"
+  },
+  {
+    "Position": "65",
+    "Item Name": "Espresso Frap",
+    "Description": "Coffee is combined with a shot of espresso and milk, then blended with ice to give you a nice little jolt and lots of sipping joy.",
+    "Price": "L.L 300,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/fda87678-4b7d-49bb-8f63-b8adf7997ed7.png"
+  },
+  {
+    "Position": "66",
+    "Item Name": "Mocha Frap",
+    "Description": "Mocha sauce, Frappuccino Roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/97aace5e-5fbe-4082-a2b7-559ab96c1935.png"
+  },
+  {
+    "Position": "67",
+    "Item Name": "Caramel Frap",
+    "Description": "Coffee and flavors of sweet caramel blended with rich Frappuccino chips",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/a76bb9d8-97f6-4fd7-8e48-91e0f6219f54.png"
+  },
+  {
+    "Position": "68",
+    "Item Name": "Iced Latte",
+    "Description": "Small-lot espresso combined with milk and served over ice creates perfectly handcrafted sips of cool.",
+    "Price": "L.L 300,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/58384220-ac88-49d3-88c9-a26363472b83.png"
+  },
+  {
+    "Position": "69",
+    "Item Name": "Cinnamon Rolls",
+    "Description": "Made with a combination of warm dough, legendary Makara cinnamon, and signature cream cheese for a freshly baked, irresistible sweet treat.",
+    "Price": "L.L 500,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/3549b4df-b95e-4833-bf2b-a82f01443029.png"
+  },
+  {
+    "Position": "70",
+    "Item Name": "Iced White Mocha",
+    "Description": "Our signature espresso meets white chocolate sauce, milk and ice, and then is finished off with sweetened whipped cream to create this supreme white chocolate delight.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/58384220-ac88-49d3-88c9-a26363472b83.png"
+  },
+  {
+    "Position": "71",
+    "Item Name": "Iced Caramel Macchiato",
+    "Description": "We combine our rich, full-bodied espresso with vanilla-flavored syrup, milk and ice, then top it off with a caramel drizzle for an oh-so-sweet finish.",
+    "Price": "L.L 350,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/58384220-ac88-49d3-88c9-a26363472b83.png"
+  },
+  {
+    "Position": "72",
+    "Item Name": "Bluenade",
+    "Description": "Blue, fit perfectly with the ocean theme. And the combination of three different blue colored berries (blueberries, blackberries and blue raspberries) plus lemon, creates a unique flavor with a strikingly Blue Ocean feel.",
+    "Price": "L.L 400,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/054fb277-133f-432a-8510-e4c3c9fead5e.png"
+  },
+  {
+    "Position": "73",
+    "Item Name": "Chocolate Rolls",
+    "Description": "Made with a combination of warm dough, legendary Makara cinnamon, chocolate, and signature cream cheese for a freshly baked, irresistible sweet treat.",
+    "Price": "L.L 500,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/3549b4df-b95e-4833-bf2b-a82f01443029.png"
+  },
+  {
+    "Position": "74",
+    "Item Name": "Lazy Cake",
+    "Description": "An indulgent blend of biscuit layers saturated in rich chocolate, this no-fuss dessert delivers maximum comfort in minimum effort, satisfying the soul's sweetest cravings in every heavenly bite.",
+    "Price": "L.L 400,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/0f5dac9b-a4fc-48f6-b62a-dcff63d8a65e.png"
+  },
+  {
+    "Position": "75",
+    "Item Name": "Chocolate Croissant",
+    "Description": "Two generous pieces of chocolate wrapped in a butter croissant with soft, flaky layers and a golden-brown crust.",
+    "Price": "L.L 300,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/0f053e99-5f68-4c26-9784-f2b5228ecd9f.png"
+  },
+  {
+    "Position": "76",
+    "Item Name": "Thyme Croissant",
+    "Description": "A delicious combination of sweet and savory, our thyme croissant is perfect for a quick breakfast or snack.",
+    "Price": "L.L 300,000",
+    "Image": "https://storieslbstorageprodv3.blob.core.windows.net/prod/d4d4d920-e3b6-4667-a4b1-40d2fa5d9c99.png"
+  }
+]
